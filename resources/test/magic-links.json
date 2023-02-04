@@ -1,0 +1,16 @@
+[
+  {
+    "id": 7,
+    "first_chars": "abc12",
+    "status": "valid",
+    "permissions": [
+      "consumeLicenses",
+      "listMagicLinks",
+      "createMagicLinks",
+      "revokeMagicLinks",
+      "viewUsageInformation"
+    ],
+    "created_at": "2023-01-22T08:32:05.175Z",
+    "expires_at": "2023-02-28T23:59:59.000Z"
+  }
+]
